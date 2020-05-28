@@ -36,6 +36,7 @@ We recommend these following evaluation code:
 Default setting tr = 0.8 and tp = 0.4 is implemented in our experiments.
 - https://github.com/liuheng92/OCR_EVALUATION
 
-You can try our trained model: "eg_model.pth" from the repository.
+You can try our trained model: "eg_model.pth" from:
+- https://drive.google.com/file/d/1eCaJXontrOaH67rpxGh9-R-GAkaOXoCF/view?usp=sharing
 
 More updates are coming soon. :)
