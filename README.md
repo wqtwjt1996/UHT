@@ -37,3 +37,4 @@ Default setting tr = 0.8 and tp = 0.4 is implemented in our experiments.
 
 You can try our trained model: "eg_model.pth" from the repository.
 
+More updates are coming soon. :)
