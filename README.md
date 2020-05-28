@@ -32,8 +32,9 @@ python eval.py
 
 We recommend these following evaluation code:
 - https://github.com/cs-chan/Total-Text-Dataset/tree/master/Evaluation_Protocol
-- https://github.com/liuheng92/OCR_EVALUATION
+
 Default setting tr = 0.8 and tp = 0.4 is implemented in our experiments.
+- https://github.com/liuheng92/OCR_EVALUATION
 
 You can try our trained model: "eg_model.pth" from the repository.
 
