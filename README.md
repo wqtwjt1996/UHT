@@ -6,7 +6,7 @@ The pytorch re-implementation of paper: A method for detecting text of arbitrary
 - Only ResNet-50 backbone is implemented.
 - Parts of code, such as data augmentation refered: https://github.com/princewang1994/TextSnake.pytorch
 ## How to setting the parameters?
-Please go to config.py to seeting them.
+Please go to config.py to setting them.
 ## My running environment
 ```
 python 3.7
