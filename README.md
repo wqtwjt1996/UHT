@@ -20,7 +20,7 @@ python train.py
 ```
 If you want to pretrain using SynthText dataset, setting "dataset_name" in config.py as: synth_text
 If you want to fine-tune using Total-Text or COCO-Text dataset, setting "dataset_name" in config.py as corresponding dataset name.
-Remember downloading the datasets first. Here are some links that might helkp you:
+Remember downloading the datasets first. Here are some links that might help you:
 - https://www.robots.ox.ac.uk/~vgg/data/scenetext/
 - https://github.com/cs-chan/Total-Text-Dataset
 - https://vision.cornell.edu/se3/coco-text-2/
