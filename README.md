@@ -1,5 +1,7 @@
 # UHT
 The pytorch re-implementation of paper: A method for detecting text of arbitrary shapes in natural scenes that improves text spotting. 
+
+![image](https://github.com/wqtwjt1996/UHT/blob/master/vis.jpg)
 - Until now, only Total-text and COCO-Text datasets are implemented. 
 - Only ResNet-50 backbone is implemented.
 - Parts of code, such as data augmentation refered: https://github.com/princewang1994/TextSnake.pytorch
