@@ -18,8 +18,22 @@ To train the code, running:
 ```
 python train.py
 ```
+If you want to pretrain using SynthText dataset, setting "dataset_name" in config.py as: synth_text
+If you want to fine-tune using Total-Text or COCO-Text dataset, setting "dataset_name" in config.py as corresponding dataset name.
+Remember downloading the datasets first. Here are some links that might helkp you:
+- https://www.robots.ox.ac.uk/~vgg/data/scenetext/
+- https://github.com/cs-chan/Total-Text-Dataset
+- https://vision.cornell.edu/se3/coco-text-2/
+
 To test the model, running:
 ```
 python eval.py
 ```
+
+We recommend these following evaluation code:
+- https://github.com/cs-chan/Total-Text-Dataset/tree/master/Evaluation_Protocol
+- https://github.com/liuheng92/OCR_EVALUATION
+Default setting tr = 0.8 and tp = 0.4 is implemented in our experiments.
+
+You can try our trained model: "eg_model.pth" from the repository.
 
